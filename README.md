@@ -35,13 +35,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Flampt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=flamptx&theme=tokyonight&show_icons=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=flamptx&theme=tokyonight&show_icons=true" />
   
 </details>
 
 <details>
   <summary>:zap: Top languages</summary>
 
-  <img align="left" alt="Flampt's GitHub Stats" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=flamptx&layout=compact&theme=tokyonight" />
+  <img align="left" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamptx&layout=compact&theme=tokyonight" />
   
 </details>
