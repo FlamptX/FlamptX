@@ -27,7 +27,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Discord bots
 2. 🗣 Crypto trading bots
-3. OCR programs in python
+3. 🗣 OCR programs in python
 <!--END_SECTION:activity-->
 
 </details>
@@ -35,6 +35,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Flampt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=flamptx&show_icons=true&hide_border=true" />
+  <img align="left" alt="Flampt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=flamptx&theme=tokyonight&show_icons=true" />
+  
+</details>
 
+<details>
+  <summary>:zap: Top languages</summary>
+
+  <img align="left" alt="Flampt's GitHub Stats" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=flamptx&layout=compact&theme=tokyonight" />
+  
 </details>
