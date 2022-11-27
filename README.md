@@ -2,10 +2,10 @@
 
 ## I'm a Student and a Developer by passion!!
 
-- 🌱 My first language I learned was Python and I still use it
-- ⚡ Fun fact: I like to play guitar
+- 🌱 My first programming language was Python and I still use it
+- 🐨 Discord bots are cool
 
-### Contact me on discord: Flampt#0542
+### Contact me on discord: Flampt#3906
 
 ---
 
