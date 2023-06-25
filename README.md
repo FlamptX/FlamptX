@@ -1,11 +1,4 @@
-### Hi there, I'm Flampt 👋
-
-## I'm a Student and a Developer by passion!!
-
-- 🌱 My first programming language was Python and I still use it
-- 🐨 Discord bots are cool
-
-### Contact me on discord: Flampt#3906
+## Hi there
 
 ---
 
